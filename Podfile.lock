@@ -1,0 +1,13 @@
+PODS:
+  - Masonry (0.6.3)
+  - XLForm (3.0.2)
+
+DEPENDENCIES:
+  - Masonry
+  - XLForm
+
+SPEC CHECKSUMS:
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  XLForm: 7817ce29f3f259186e837bb7309ac7e5b7e9b883
+
+COCOAPODS: 0.39.0

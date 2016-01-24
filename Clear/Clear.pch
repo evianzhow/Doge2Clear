@@ -1,0 +1,20 @@
+//
+//  Clear.pch
+//  Clear
+//
+//  Created by Yifei Zhou on 11/29/15.
+//  Copyright © 2015 Aladdin Inc. All rights reserved.
+//
+
+#ifndef Clear_pch
+#define Clear_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Masonry/Masonry.h>
+
+#import "UIView+ALDAdditions.h"
+#import "UIImage+ALDAdditions.h"
+#import "ALDMacros.h"
+
+#endif /* Clear_pch */
